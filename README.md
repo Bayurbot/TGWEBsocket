@@ -9,7 +9,6 @@ WEB Socket Server https://t.me/MCPServer_bot
 - 🔌 **WebSocket API** for receiving messages in real-time
 - 🔐 **Token system** for secure API access
 - 📱 **Media content support** (photos, videos, documents, audio)
-- 💳 **Flexible subscription plans** with TON and USDT payment options
 - 🌐 **Multilingual support** (Russian, English)
 - 👥 **Connection limits** based on subscription plan
 - 📝 **Message history storage**
