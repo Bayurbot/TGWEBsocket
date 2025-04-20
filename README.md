@@ -1,4 +1,4 @@
-# MCP Telegram Bot
+# Telegram WEB Socket Server 
 
 ## Overview
 
