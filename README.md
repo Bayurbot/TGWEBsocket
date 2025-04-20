@@ -3,7 +3,8 @@
 ## Overview
 
 MCP (Message Control Protocol) Telegram Bot is a powerful tool for accessing Telegram channel messages via WebSocket connection. The bot allows you to receive messages from your channels in real-time and create your own integrations.
-WEB Socket Server https://t.me/MCPServer_bot
+ - 👉 Try it now:WEB Socket Server https://t.me/MCPServer_bot
+
 ## Key Features
 
 - 🔌 **WebSocket API** for receiving messages in real-time
